@@ -65,7 +65,7 @@ _👉 I'll be uploading more cool projects soon!_
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=your_username&show_icons=true&theme=react&hide_border=true" alt="GitHub Stats" />
   <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=your_username&theme=react&hide_border=true" alt="GitHub Streak"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Merchito12&theme=react&hide_border=true" alt="GitHub Streak"/>
 </div>
 
 ---
