@@ -46,28 +46,30 @@
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/your_username)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/your_username)
-[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/57your_number)
-📱 +57 000 000 0000
-
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/brandon-eduardo-merchan-sandoval-2490ab2b1/)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/merchito__)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/573105437755)
+📱 +57 310 543 7755
 </div>
-
----
-
-## 🚀 Projects
-
-Feel free to explore some of my public repositories.  
-_👉 I'll be uploading more cool projects soon!_
 
 ---
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=your_username&show_icons=true&theme=react&hide_border=true" alt="GitHub Stats" />
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Merchito12&layout=compact" alt="Top Langs" />
+</a>
+  <br/>
   <br/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Merchito12&theme=react&hide_border=true" alt="GitHub Streak"/>
+</div>
+  <br/>
+  <br/>
+<div align="center">
+  <em>"La imaginación es más importante que el conocimiento. El conocimiento es limitado, mientras que la imaginación no."<br>– Donald Knuth</em>
 </div>
 
 ---
 
-### ✨ Thanks for stopping by!
+Credit: [Brandon Merchan](https://github.com/Merchito12)
+  <br/>
+Last Edited: 16/04/2025
